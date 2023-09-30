@@ -1,18 +1,11 @@
-# aviation-cybersecurity-workshop
+# Aviation Cybersecurity Workshop
+Slideshow presentation and programs for the aviation cybersecurity workshop.
 
+### Lab 1: Exploring Avionics
+Using an instrument avionics simulator
 
-### Labs
+### Lab 2: Analyzing Avionics Communication Protocols
+Dissecting, analyzing, injecting and CAN messages
 
-Lab 1: Analyzing Avionics Telemetry and Communication Protocols
-- Reverse Engineer and Send Commands using ARINC424 protocol
-
-Lab 2: Hacking In-Flight Entertainment Systems
-- Go over firmware and possible exploits of In-Flight Entertainment Systems
-
-Lab 3: Reading over ADS-B Logs and Detecting for Malcious Aircraft
-- Look over ADS-B Radar Systems (Check out FlightExchange and ADSB Radar)
-- Download a ADS-B CSV output file
-- Download a Python script
-- List aircraft
-- Go over anamolous values
-- Graph specific things about telemetry
+### Lab 3: ADS-B Spoofing Detection 
+Detecting for spoofing instances by looking at ADS-B CSV logs 
