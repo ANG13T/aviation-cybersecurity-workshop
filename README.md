@@ -1,7 +1,7 @@
 # Aviation Cybersecurity Workshop
 Slideshow presentation and programs for the aviation cybersecurity workshop.
 
-[https://docs.google.com/presentation/d/1IoEe0bW0WQ2Skx0O022VEwktwOlauTio8CxM2QX3_Q4/edit?usp=sharing](https://docs.google.com/presentation/d/1IoEe0bW0WQ2Skx0O022VEwktwOlauTio8CxM2QX3_Q4/edit?usp=sharing)
+[Presentation Slideshow](https://docs.google.com/presentation/d/1XqG4CLgY95HL2pwUEfuhCKpyF-nwwUfLnivKBcfC3Qw/edit?usp=sharing)
 
 ### Lab 1: Exploring Avionics
 Using an instrument avionics simulator
